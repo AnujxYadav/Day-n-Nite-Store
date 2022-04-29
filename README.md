@@ -1,3 +1,5 @@
 # Day-n-Nite-Store
 
-The project is under development stage. It will be uploaded on 1st of may.
+This is NodeJs project, so first install node modeules first with the following command: npm install
+
+The project will be deployed on heroku, on 1st of may.
